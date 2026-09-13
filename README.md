@@ -36,12 +36,12 @@ O **JobMatch-AI** foi desenvolvido para automatizar esse processo, combinando au
 
 ## Demonstração
 
-**Google Sheets — registro das oportunidades**
+**Google Sheets — registro das oportunidades e CV Adaptado pelo Sistema**
 
 ![Google Sheets](images/googlesheets1.png)
 ![Google Sheets](images/googlesheets2.png)
 
-**Funcionamento e teste com currículo real**
+**Funcionamento e teste com currículo Ficticio**
 
 ![Gif Funcionamento](gifs/demo.gif)
 ![Gif Teste com currículo](gifs/curriculobase.gif)
