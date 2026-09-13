@@ -1,0 +1,6 @@
+titulo,empresa,localizacao,descricao,link,match_score,skills_gap
+Estágio Desenvolvedor Python,Tech Solutions,São Paulo - SP,"Desenvolvimento de APIs REST com Python, integração de sistemas e manutenção de aplicações.","https://exemplo.com/vaga/python",88,"FastAPI; testes automatizados"
+Estágio em Automação,Automation Labs,Remoto,"Automação de processos utilizando Python, n8n, APIs REST e integração entre sistemas.","https://exemplo.com/vaga/automacao",94,"Docker"
+Estágio em Dados,Data Analytics Brasil,Remoto,"Análise de dados utilizando Python, Pandas, SQL e ferramentas de visualização.","https://exemplo.com/vaga/dados",91,"Power BI avançado"
+Estágio em IA Generativa,AI Solutions,Remoto,"Desenvolvimento de aplicações com LLMs, agentes de IA, Python e APIs.","https://exemplo.com/vaga/ia",96,"LangChain"
+Estágio Backend Python,Software Tech,Aracaju - SE,"Desenvolvimento backend utilizando Python, APIs, bancos de dados relacionais e Git.","https://exemplo.com/vaga/backend",85,"PostgreSQL; FastAPI"
